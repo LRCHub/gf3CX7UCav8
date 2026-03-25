@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Round & Round '94",
+  "base_artist": "New Order",
+  "createdAt": "2026-03-25T03:33:41.550588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Round Here",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/01_Round_Here_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Round And Round",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": true,
+      "path": "select/02_Round_And_Round_Ariel_Pink's_Haunted_Graffiti.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Round and Round (Alternate Vocal Take)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Round_and_Round_(Alternate_Vocal_Take)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Round And Round",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Round_And_Round_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Round",
+      "artist": "Yung Bans feat. Juice WRLD",
+      "has_synced": true,
+      "path": "select/05_Round_Yung_Bans_feat._Juice_WRLD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boys 'Round Here",
+      "artist": "Blake Shelton feat. Pistol Annies & Friends",
+      "has_synced": true,
+      "path": "select/06_Boys_'Round_Here_Blake_Shelton_feat._Pistol_Annies_&_Friends.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/07_Boys_'Round_Here_(feat._Pistol_Annies_&_Friends)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Going 'Round",
+      "artist": "Jordan Davis",
+      "has_synced": true,
+      "path": "select/08_Going_'Round_Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Merry Go 'Round",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/09_Merry_Go_'Round_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Merry Go 'Round (Album Version)",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/10_Merry_Go_'Round_(Album_Version)_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Red Round Here",
+      "artist": "Travis Denning",
+      "has_synced": true,
+      "path": "select/11_Red_Round_Here_Travis_Denning.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Round About Way",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/12_Round_About_Way_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Round The Clock Lovin'",
+      "artist": "K.T. Oslin",
+      "has_synced": true,
+      "path": "select/13_Round_The_Clock_Lovin'_K.T._Oslin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Help Is Round the Corner",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/14_Help_Is_Round_the_Corner_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Help Is Round The Corner",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/15_Help_Is_Round_The_Corner_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Merry-Go-Round",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/16_Merry-Go-Round_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Round (feat. Juice WRLD)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/17_Round_(feat._Juice_WRLD)_Yung_Bans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Round And Round",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/pl_01_Round_And_Round_New_Order.txt"
+    }
+  ]
+}
